@@ -20,9 +20,9 @@ A Java application that implements various text-processing and cryptographic alg
 ### How to Run
 1. Clone the repository:
 ```bash
-git clone [https://github.com/iwintue/text-encryption-tool.git](https://github.com/iwintue/text-encryption-tool.git)
+git clone https://github.com/iwintue/text-encryption-tool.git
 ```
-## Описание на Русском
+## Описание на Русском <a name="russian-version"></a>
 Приложение на языке Java, реализующее различные алгоритмы обработки текста и криптографии. Предоставляет инструменты для безопасного шифрования, расшифровки текста и базового криптоанализа с использованием статистических методов.
 ### Функционал
 * **Поддержка нескольких шифров:** Реализация классических алгоритмов шифрования (например, шифр Цезаря, шифр Виженера или шифры подстановки).
